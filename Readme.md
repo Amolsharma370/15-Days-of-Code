@@ -11,3 +11,11 @@ DAILY QUESTION-https://leetcode.com/problems/adjacent-increasing-subarrays-detec
 A TO Z SHEET-
 Step 10 : Sliding Window & Two Pointer Combined Problems
 Q-1248. Count Number of Nice Subarrays SOLUTION-https://leetcode.com/problems/count-number-of-nice-subarrays/
+## DAY 2
+A TO Z SHEET-
+Step 10 : Sliding Window & Two Pointer Combined Problems
+Q-1358. Number of Substrings Containing All Three Characters SOLUTION-https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+CODE CHEF Starters 208 (Rated till 6 star) DIV3
+Q1-Alternate Jumps SOLUTION-https://www.codechef.com/START208C/problems/ALJMP
+Q2-Sabotage SOLUTION-https://www.codechef.com/START208C/problems/SBTG
+Q3-GCND SOLUTION-https://www.codechef.com/START208C/problems/GUCD
