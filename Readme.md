@@ -19,3 +19,7 @@ CODE CHEF Starters 208 (Rated till 6 star) DIV3
 Q1-Alternate Jumps SOLUTION-https://www.codechef.com/START208C/problems/ALJMP
 Q2-Sabotage SOLUTION-https://www.codechef.com/START208C/problems/SBTG
 Q3-GCND SOLUTION-https://www.codechef.com/START208C/problems/GUCD
+## DAY 3
+Codeforces Round 1059 (Div. 3)
+A-Beautiful Average - https://codeforces.com/contest/2162/problem/A SOLUTION-https://codeforces.com/contest/2162/submission/344217611
+B-Beautiful String -https://codeforces.com/contest/2162/problem/B SOLUTION-https://codeforces.com/contest/2162/submission/344260760
