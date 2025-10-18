@@ -23,3 +23,9 @@ Q3-GCND SOLUTION-https://www.codechef.com/START208C/problems/GUCD
 Codeforces Round 1059 (Div. 3)
 A-Beautiful Average - https://codeforces.com/contest/2162/problem/A SOLUTION-https://codeforces.com/contest/2162/submission/344217611
 B-Beautiful String -https://codeforces.com/contest/2162/problem/B SOLUTION-https://codeforces.com/contest/2162/submission/344260760
+## DAY 4
+CP 31-900-
+Q1- Forked! SOLUTION-https://codeforces.com/contest/1904/submission/344527438
+A TO Z SHEET
+1423. Maximum Points You Can Obtain from Cards SOLUTIION-https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/
+CODE CHEF STARTER 208 DIV 3 Q-D-https://www.youtube.com/watch?v=AMf7C76-PHw
