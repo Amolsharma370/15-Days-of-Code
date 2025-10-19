@@ -29,3 +29,11 @@ Q1- Forked! SOLUTION-https://codeforces.com/contest/1904/submission/344527438
 A TO Z SHEET
 1423. Maximum Points You Can Obtain from Cards SOLUTIION-https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/
 CODE CHEF STARTER 208 DIV 3 Q-D-https://www.youtube.com/watch?v=AMf7C76-PHw
+## DAY 5
+Heap-https://youtu.be/NKJnHewiGdc?si=QyHgCORns2oCnDA_
+A to Z sheet heap
+Q-215. Kth Largest Element in an Array solution-https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+Q-
+23. Merge k Sorted Lists Solution -https://leetcode.com/problems/merge-k-sorted-lists/submissions/1805945287/
+CP 31-900
+3. Vasilije in Cacak Solution-https://codeforces.com/contest/1878/submission/344762946
