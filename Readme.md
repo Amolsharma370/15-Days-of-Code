@@ -37,3 +37,9 @@ Q-
 23. Merge k Sorted Lists Solution -https://leetcode.com/problems/merge-k-sorted-lists/submissions/1805945287/
 CP 31-900
 3. Vasilije in Cacak Solution-https://codeforces.com/contest/1878/submission/344762946
+## DAY 6
+A TO Z SHEET
+846. Hand of Straights SOLUTION-https://leetcode.com/problems/hand-of-straights/description/
+621. Task Scheduler SOLUTION-https://leetcode.com/problems/task-scheduler/description/
+Q-Replace elements by its rank in the array SOLUTION-https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/
+JS-https://youtu.be/d3jXofmQm44?si=zJinvycaWsyLpD-7
