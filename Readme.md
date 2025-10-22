@@ -43,3 +43,15 @@ A TO Z SHEET
 621. Task Scheduler SOLUTION-https://leetcode.com/problems/task-scheduler/description/
 Q-Replace elements by its rank in the array SOLUTION-https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/
 JS-https://youtu.be/d3jXofmQm44?si=zJinvycaWsyLpD-7
+##DAY7
+A TO Z SHEET
+Step 11 : Heaps 
+
+355. Design Twitter SOLUTION-https://leetcode.com/problems/design-twitter/description/
+703. Kth Largest Element in a Stream SOLUTION-https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+CP-31 900
+Q5 -MAKE IT ZERO SOLUTION -https://codeforces.com/contest/1869/submission/345168557
+CODECHEF STARTERS 209
+DIV3
+Q1-https://www.codechef.com/START209C/problems/P2209
+Q2-https://www.codechef.com/START209C/problems/P3209
