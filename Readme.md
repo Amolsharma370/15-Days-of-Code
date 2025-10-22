@@ -43,7 +43,7 @@ A TO Z SHEET
 621. Task Scheduler SOLUTION-https://leetcode.com/problems/task-scheduler/description/
 Q-Replace elements by its rank in the array SOLUTION-https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/
 JS-https://youtu.be/d3jXofmQm44?si=zJinvycaWsyLpD-7
-##DAY7
+## DAY7
 A TO Z SHEET
 Step 11 : Heaps 
 
