@@ -55,3 +55,17 @@ CODECHEF STARTERS 209
 DIV3
 Q1-https://www.codechef.com/START209C/problems/P2209
 Q2-https://www.codechef.com/START209C/problems/P3209
+## DAY 8
+NUMBER THEORY-
+https://youtu.be/RCq5TYMZEwg?si=pNsJQFLUY53AUsmD
+https://youtu.be/9S-b52CSCbQ?si=Z5glckGmVp12TNco
+A TO Z SHEET
+Step 11 : Heaps 
+295. Find Median from Data Stream SOLUTION -https://leetcode.com/problems/find-median-from-data-stream/description/
+347. Top K Frequent Elements SOLUTION-https://leetcode.com/problems/top-k-frequent-elements/description/?submissionId=1809145653
+CODECHEF STARTERS 209
+DIV3
+Q-3-https://www.codechef.com/problems/P4209?tab=statement
+Q4-https://www.codechef.com/problems/P5209?tab=statement
+CP-31 900
+Q. Balanced Round SOLUTION -https://codeforces.com/contest/1850/submission/345292211
