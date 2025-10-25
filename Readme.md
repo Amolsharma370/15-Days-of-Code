@@ -79,5 +79,12 @@ Q-B-Strange Machine SOLUTION -https://codeforces.com/contest/2156/submission/345
 A TO Z SHEET      
 GREEDY  
 Q455. Assign Cookies  SOLUTION -https://leetcode.com/problems/assign-cookies/submissions/1810553552/   
+## DAY 10
+https://youtu.be/bYvgvYWqMn0?si=jRF_doc0peneHpFR      
+https://youtu.be/xAsWteYn1no?si=9d8ELaa10iv408km     
+working on a E-commerse website using HTML, CSS, JS today created main page using html, css   
+A TO Z SHEET       
+860. Lemonade Change SOLUTION -https://leetcode.com/problems/lemonade-change/submissions/1811208276/  
+
 
 
