@@ -93,6 +93,18 @@ A TO Z SHEET
 678. Valid Parenthesis String Solution-https://leetcode.com/problems/valid-parenthesis-string/submissions/1813358363/   
 CP-31 900     
 Q-9 Permutation Swap Solution-https://codeforces.com/contest/1828/submission/346063543   
+## DAY 12
+https://youtu.be/bYvgvYWqMn0?si=jRF_doc0peneHpFR       
+https://youtu.be/xAsWteYn1no?si=9d8ELaa10iv408km      
+working on a E-commerse website using HTML, CSS, JS today created WORKED ON TEMPALETE AND JS FOR IT   
+A TO Z SHEET    
+Q-55. Jump Game SOLUTION-https://leetcode.com/problems/jump-game/submissions/     
+Codeforces Round 1062 (Div. 4)    
+A	Square? SOLUTION-https://codeforces.com/contest/2167/submission/346271348   
+B. Your Name SOLUTION-https://codeforces.com/contest/2167/submission/346303046    
+C. Isamatdin and His Magic Wand! SOLUTION-https://codeforces.com/contest/2167/submission/346294560   
+
+
 
 
 
