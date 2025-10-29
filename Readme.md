@@ -103,6 +103,15 @@ Codeforces Round 1062 (Div. 4)
 A	Square? SOLUTION-https://codeforces.com/contest/2167/submission/346271348   
 B. Your Name SOLUTION-https://codeforces.com/contest/2167/submission/346303046    
 C. Isamatdin and His Magic Wand! SOLUTION-https://codeforces.com/contest/2167/submission/346294560   
+## DAY 13  
+https://youtu.be/bYvgvYWqMn0?si=jRF_doc0peneHpFR       
+https://youtu.be/xAsWteYn1no?si=9d8ELaa10iv408km      
+working on a E-commerse website using HTML, CSS, JS today created WORKED ON TEMPALETE AND JS FOR IT  
+CODECHEF STARTER 210  DIV 3
+Q1-Profits SOLUTION-https://www.codechef.com/START210C/problems/PROFIT      
+Q2-Chocolate Eating SOLUTION-https://www.codechef.com/START210C/problems/CHOCEAT   
+Q3-First Element Counting SOLUTION-https://www.codechef.com/viewsolution/1202665808   
+
 
 
 
