@@ -115,6 +115,8 @@ Q3-First Element Counting SOLUTION-https://www.codechef.com/viewsolution/1202665
 https://youtu.be/bYvgvYWqMn0?si=jRF_doc0peneHpFR       
 https://youtu.be/xAsWteYn1no?si=9d8ELaa10iv408km      
 working on a E-commerse website using HTML, CSS, JS today complete main page with js and worked on cart page to render the stored product into cart   
+## DAY 15
+COMPLET WABSITE   
 
 
 
